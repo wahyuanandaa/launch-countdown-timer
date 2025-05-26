@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yourusername/launch-countdown-timer)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/wahyuanandaa/launch-countdown-timer)
+- Live Site URL: [Live Demo](https://wahyuanandaa.github.io/launch-countdown-timer/)
 
 ## My process
 
@@ -104,5 +104,5 @@ Some ideas for future development:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Wahyuanandaa)
+- GitHub - [@yourusername](https://github.com/wahyuanandaa)
