@@ -36,10 +36,11 @@ body {
 
 .container {
   text-align: center;
-  padding: 8rem 2rem;
+  padding: 4rem 2rem;
   max-width: 1440px;
   width: 100%;
   margin: 0 auto;
+  margin-top: -16rem;
 }
 
 h1 {
