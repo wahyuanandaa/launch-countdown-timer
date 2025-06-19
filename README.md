@@ -104,5 +104,5 @@ Some ideas for future development:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Wahyuanandaa)
-- GitHub - [@yourusername](https://github.com/wahyuanandaa)
+- Frontend Mentor - [@Wahyuanandaa](https://www.frontendmentor.io/profile/Wahyuanandaa)
+- GitHub - [@wahyuanandaa](https://github.com/wahyuanandaa)
